@@ -1,0 +1,1 @@
+### Verification using Systemverilog & UVM of SPI Wrapper consists of SPI slave connected with single port Synchronous RAM through SPI protocol (not standard implementation) and also verification of RAM.
